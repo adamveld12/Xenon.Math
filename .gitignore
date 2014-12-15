@@ -1,3 +1,4 @@
 *.csproj.*
+*.suo
 bin
 obj
